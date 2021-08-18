@@ -1,0 +1,2 @@
+  git config --global user.email "s_ethan.rhorer2@ousd.org"
+  git config --global user.name "ethanrhorer"
